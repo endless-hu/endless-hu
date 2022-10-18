@@ -27,7 +27,7 @@ Credits from ZJU:
 
 My extra-curricular projects:
 
-- [x] [Object-Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java?specialization=object-oriented-programming)  ([Coursera certificate]())
+- [x] [Object-Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java?specialization=object-oriented-programming)  ([Coursera certificate](https://coursera.org/verify/LG9BMF6MUZ3Y))
 - [x] CMU 15-445 [*Intro to Database Systems, Fall 2020*](https://15445.courses.cs.cmu.edu/fall2020/) ([link to my project report](https://github.com/endless-hu/bustub-2020-public))
 - [x] MIT 6.S081 [*Operating System Engineering, Fall 2021*](https://pdos.csail.mit.edu/6.S081/2021/schedule.html) ([link to my project report](https://github.com/endless-hu/xv6-labs-2021-public))
 - [x] Stanford CS144 [*Introduction to Computer Networking, Fall 2021*](https://cs144.github.io/)  ([link to my project report](https://github.com/endless-hu/CS144-Public))
