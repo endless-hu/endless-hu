@@ -23,7 +23,7 @@ Credits from ZJU:
 - [x] *Fundamentals of C Programming* and *Lectures on Programming*
 - [x] *Fundamentals of Data Structures* and *Advanced Data Structures & Algorithm Analysis*
 - [x] *The Fundamentals of Assembly Language Programming* and *The Principle & Application of Microcomputer & DSP*
-- [x] *Operating Systems* and *Introduction to Computer Networks*
+- [x] [*Operating Systems*](https://github.com/endless-hu/os-lab) and *Introduction to Computer Networks*
 
 My extra-curricular projects:
 
