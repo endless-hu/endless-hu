@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Hu, Zhijing
 
-I am an incoming master's student in computer science at Columbia University. Previously,
+I am a first-year master's student in computer science at Columbia University. Previously,
 I graduated from Zhejiang University in the College of Electrical Engineering with a bachelor's
 degree in Electrical Engineering and Automation.
 
@@ -22,12 +22,12 @@ Besides, I'm curious about Fintech, such as quant trading.
 
 ### 🌱 My learning pathway ...
 
-Planned courses for 23 Fall in Columbia:
+My curriculum of 23 Fall in Columbia:
 
 - Engineering Software as a Service
 - Programming Language and Translators
 - Introduction to Cryptography
-- Anonimity and Privacy
+- Distributed Systems Fundamentals (Also serve as a grading CA)
 
 My extra-curricular projects:
 
@@ -46,8 +46,8 @@ Credits from ZJU:
 
 Other interesting topics:
 
-- [ ] Compilers ([edX](https://www.edx.org/course/compilers))
-- [ ] Web development (MIT [6.148](https://weblab.mit.edu/))
+- [ ] <del>Compilers ([edX](https://www.edx.org/course/compilers))</del> PLT at Columbia is equivalent
+- [ ] <del>Web development (MIT [6.148](https://weblab.mit.edu/))</del> Software Engineering at Columbia is equivalent
 - [ ] Computer System Security (MIT [6.858](https://css.csail.mit.edu/6.858/2022/schedule.html))
 - [ ] Discrete Math ([Coursera](https://www.coursera.org/learn/what-is-a-proof))
 - [ ] Computer Organization/Architecture (CMU [15-213](http://csapp.cs.cmu.edu/3e/labs.html) / UCB [CS61C](https://inst.eecs.berkeley.edu/~cs61c/sp22/))
