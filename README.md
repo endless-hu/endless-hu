@@ -1,8 +1,11 @@
-### 👋 Hi, I’m Hu, Zhijing
+### 👋 Hi, I’m Hu Zhijing
 
-I am a first-year master's student in computer science at Columbia University. Previously,
+I am a master's student in computer science at Columbia University, graduating in Decemeber 2024. Previously,
 I graduated from Zhejiang University in the College of Electrical Engineering with a bachelor's
 degree in Electrical Engineering and Automation.
+
+I am interning at Alibaba Group this summer as a Java SDE in the User Growth team at Miravia, a Spanish 
+e-commerce platform.
 
 **I am actively seeking a full-time SDE position starting December 2024 in the US and China.**
 
