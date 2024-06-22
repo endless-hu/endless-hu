@@ -4,7 +4,7 @@ I am a first-year master's student in computer science at Columbia University. P
 I graduated from Zhejiang University in the College of Electrical Engineering with a bachelor's
 degree in Electrical Engineering and Automation.
 
-**I am actively looking for 2024 summer interns in the US and China.**
+**I am actively seeking a full-time SDE position starting December 2024 in the US and China.**
 
 ### 👀 I’m interested in ...
 
@@ -12,22 +12,37 @@ General computer science, including:
 
 1. Systems and networks
 2. Database systems
-3. Software engineering
-4. Programming languages and compilers
-5. Web development
-6. Cryptograph
-7. Theory, algorithms, and AI
+3. Graphics
+4. Software engineering
+5. Programming languages and compilers
+6. Web development
+7. Cryptograph
+8. Theory, algorithms, and AI
 
 Besides, I'm curious about Fintech, such as quant trading.
 
 ### 🌱 My learning pathway ...
 
-My curriculum of 23 Fall in Columbia:
+My curriculum at Columbia:
+
+23 Fall:
 
 - Engineering Software as a Service
 - Programming Language and Translators
 - Introduction to Cryptography
 - Distributed Systems Fundamentals (Also serve as a grading CA)
+
+24 Spring:
+
+- Computer Graphics
+- Private Systems
+- Networks, Crowds & the Web
+- Natural Language Processing
+
+24 Fall:
+
+- Security I
+- Hyperscale Infrastructures
 
 My extra-curricular projects:
 
@@ -46,8 +61,8 @@ Credits from ZJU:
 
 Other interesting topics:
 
-- [ ] <del>Compilers ([edX](https://www.edx.org/course/compilers))</del> PLT at Columbia is equivalent
-- [ ] <del>Web development (MIT [6.148](https://weblab.mit.edu/))</del> Software Engineering at Columbia is equivalent
+- [x] <del>Compilers ([edX](https://www.edx.org/course/compilers))</del> PLT at Columbia is equivalent
+- [x] <del>Web development (MIT [6.148](https://weblab.mit.edu/))</del> Software Engineering at Columbia is equivalent
 - [ ] Computer System Security (MIT [6.858](https://css.csail.mit.edu/6.858/2022/schedule.html))
 - [ ] Discrete Math ([Coursera](https://www.coursera.org/learn/what-is-a-proof))
 - [ ] Computer Organization/Architecture (CMU [15-213](http://csapp.cs.cmu.edu/3e/labs.html) / UCB [CS61C](https://inst.eecs.berkeley.edu/~cs61c/sp22/))
