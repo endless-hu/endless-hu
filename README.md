@@ -1,13 +1,11 @@
 ### 👋 Hi, I’m Hu Zhijing
 
-I am a master's student in computer science at Columbia University, graduating in Decemeber 2024. Previously,
+I recently received a master's degree in computer science from Columbia University. Previously,
 I graduated from Zhejiang University in the College of Electrical Engineering with a bachelor's
 degree in Electrical Engineering and Automation.
 
-I am interning at Alibaba Group this summer as a Java SDE in the User Growth team at Miravia, a Spanish 
+I interned at Alibaba Group in Summer 2024 as a Java SDE in the User Growth team at Miravia, a Spanish 
 e-commerce platform.
-
-**I am actively seeking a full-time SDE position starting December 2024 in the US and China.**
 
 ### 👀 I’m interested in ...
 
@@ -44,7 +42,7 @@ My curriculum at Columbia:
 
 24 Fall:
 
-- Security I
+- Advanced Systems Programming
 - Hyperscale Infrastructures
 
 My extra-curricular projects:
@@ -61,14 +59,6 @@ Credits from ZJU:
 - *Fundamentals of Data Structures* and *Advanced Data Structures & Algorithm Analysis*
 - *The Fundamentals of Assembly Language Programming* and *The Principle & Application of Microcomputer & DSP*
 - [*Operating Systems*](https://github.com/endless-hu/os-lab) and *Introduction to Computer Networks*
-
-Other interesting topics:
-
-- [x] <del>Compilers ([edX](https://www.edx.org/course/compilers))</del> PLT at Columbia is equivalent
-- [x] <del>Web development (MIT [6.148](https://weblab.mit.edu/))</del> Software Engineering at Columbia is equivalent
-- [ ] Computer System Security (MIT [6.858](https://css.csail.mit.edu/6.858/2022/schedule.html))
-- [ ] Discrete Math ([Coursera](https://www.coursera.org/learn/what-is-a-proof))
-- [ ] Computer Organization/Architecture (CMU [15-213](http://csapp.cs.cmu.edu/3e/labs.html) / UCB [CS61C](https://inst.eecs.berkeley.edu/~cs61c/sp22/))
 
 ### 📫 How to reach me ... 
 
